@@ -1,0 +1,7 @@
+[What is Feature Engineering? - GeeksforGeeks](https://www.geeksforgeeks.org/machine-learning/what-is-feature-engineering/)
+
+[Feature Engineering in Machine Learning](https://www.analyticsvidhya.com/blog/2021/10/a-beginners-guide-to-feature-engineering-everything-you-need-to-know/)
+
+[Feature Engineering in Machine Learning: A Practical Guide](https://www.datacamp.com/tutorial/feature-engineering)
+
+
